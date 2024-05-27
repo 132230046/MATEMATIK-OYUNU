@@ -1,4 +1,4 @@
- # MATEMATİK OYUNU 
+ # MATEMATİK ÇİFTLİĞİ
 ## OYUN AMACI
 Oyunun amacı: Kişinin dikkat,hafıza ve hesap yeteneğini ölçmektir.Bu 3 özellik ile kişi oyunu çok başarılı şekilde tamamlar
 ## OYUN KAPSAMI
