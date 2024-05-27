@@ -39,4 +39,6 @@ https://github.com/132230046/MATEMATIK-OYUNU/assets/148896496/22a6d70a-6112-443f
 4. Kişi hafıza yeteneğini daha önceden öğrenmiş olduğu çarpma,bölme,toplama,çıkarma işlemlerini zihnine getirerek soruları çözmelidir.
 5. Olası bi durumda durmak isterse dur butonuyla oyunu durdurabilir.
 6. Kişi işlem yeteneği sayesinde de oyunu en hızlı şekilde ve can kaybı olmadan oyunu bitirmeye çalışır.
+ ### ÖDEV SORUMLUSU
+   Ülkü AYDIN
    
