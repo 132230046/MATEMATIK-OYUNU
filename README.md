@@ -3,7 +3,7 @@
 Oyunun amacı: Kişinin dikkat,hafıza ve hesap yeteneğini ölçmektir.Bu 3 özellik ile kişi oyunu çok başarılı şekilde tamamlar
 ## OYUN KAPSAMI
 MENU LEVEL: <BR>
-1.BUTONLAR:Menu level de 2 tane buton bulunmaktadır. <br>
+1.BUTONLAR: Menu level de 2 tane buton bulunmaktadır. <br>
 
 GAME LEVEL:<br>
 1- CAN: 3 tane can hakkımız bulunmaktadır.<br>
