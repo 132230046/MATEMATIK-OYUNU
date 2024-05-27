@@ -2,19 +2,16 @@
 ## OYUN AMACI
 Oyunun amacı: Kişinin dikkat,hafıza ve hesap yeteneğini ölçmektir.Bu 3 özellik ile kişi oyunu çok başarılı şekilde tamamlar
 ## OYUN KAPSAMI
-MENU LEVEL:
-```
-BUTONLAR:Menu level de 2 tane buton bulunmaktadır.
-```
-GAME LEVEL:
-```
-CAN:3 tane can hakkımız bulunmaktadır.
-DURDURMA BUTONU:Oyunu durdurmaya yarar.
-PUAN:Her oyun kazandıkça 5 puan artacaktır.
-SÜRE:100 sn süremiz vardır.
-SAYILAR: Hem sonuç hem de soru kısmında bulunmaktadır.
-SES: Oyun arkaplan ve buton da bulunmaktadır. 
-```
+MENU LEVEL: <BR>
+1.BUTONLAR:Menu level de 2 tane buton bulunmaktadır. <br>
+
+GAME LEVEL:<br>
+1- CAN:3 tane can hakkımız bulunmaktadır.<br>
+2- DURDURMA BUTONU:Oyunu durdurmaya yarar.<br>
+3- PUAN:Her oyun kazandıkça 5 puan artacaktır.<br>
+4- SÜRE:100 sn süremiz vardır.<br>
+5- SAYILAR: Hem sonuç hem de soru kısmında bulunmaktadır.<br>
+6- SES: Oyun arkaplan ve buton da bulunmaktadır.<br>
 ## OYUN ARAYÜZ GÖRSELLERİ
 ***MENU LEVEL:*** Giriş ekranıdır. Çiftlik oyunu figürlüdür. 2 tane buton bulunmaktadır. Giriş ve Çıkış olmak üzere. Giriş butonuyla oyuna giriş yapılıyor.
 ![Ekran görüntüsü 2024-05-27 112842](https://github.com/132230046/MATEMATIK-OYUNU/assets/148896496/1a1eaa2d-de49-4f66-8369-acd81ef81930) <br>
