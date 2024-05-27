@@ -12,9 +12,10 @@ GAME LEVEL:<br>
 4- SÜRE: 100 sn süremiz vardır.<br>
 5- SAYILAR: Hem sonuç hem de soru kısmında bulunmaktadır.<br>
 6- SES: Oyun arkaplan ve buton da bulunmaktadır.<br>
-## OYUN ARAYÜZ GÖRSELLERİ
+## OYUN ARAYÜZ GÖRSELLERİ 
+
 ***MENU LEVEL:*** Giriş ekranıdır. Çiftlik oyunu figürlüdür. 2 tane buton bulunmaktadır. Giriş ve Çıkış olmak üzere. Giriş butonuyla oyuna giriş yapılıyor.
-![Ekran görüntüsü 2024-05-27 112842](https://github.com/132230046/MATEMATIK-OYUNU/assets/148896496/1a1eaa2d-de49-4f66-8369-acd81ef81930) <br>
+![Ekran görüntüsü 20![Ekran görüntüsü 2024-05-27 135339](https://github.com/132230046/MATEMATIK-OYUNU/assets/148896496/4d8ebe96-35fd-405b-bab9-f655d1532d21) <br>
 
 ***GAME LEVEL:*** Oyun levelidir. 3 tane can hakkı var. Bir duraksat butonu. Puan panelim vardır. 100 sn sürem var. Pencere içerisinde soru alanım ve sonuç dairelerim vardır.
 ![Ekran görüntüsü 2024-05-26 233755](https://github.com/132230046/MATEMATIK-OYUNU/assets/148896496/d103b28f-aaca-4645-a541-1065721cdcfb)
