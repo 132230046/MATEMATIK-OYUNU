@@ -6,10 +6,10 @@ MENU LEVEL: <BR>
 1.BUTONLAR:Menu level de 2 tane buton bulunmaktadır. <br>
 
 GAME LEVEL:<br>
-1- CAN:3 tane can hakkımız bulunmaktadır.<br>
-2- DURDURMA BUTONU:Oyunu durdurmaya yarar.<br>
-3- PUAN:Her oyun kazandıkça 5 puan artacaktır.<br>
-4- SÜRE:100 sn süremiz vardır.<br>
+1- CAN: 3 tane can hakkımız bulunmaktadır.<br>
+2- DURDURMA BUTONU: Oyunu durdurmaya yarar.<br>
+3- PUAN: Her oyun kazandıkça 5 puan artacaktır.<br>
+4- SÜRE: 100 sn süremiz vardır.<br>
 5- SAYILAR: Hem sonuç hem de soru kısmında bulunmaktadır.<br>
 6- SES: Oyun arkaplan ve buton da bulunmaktadır.<br>
 ## OYUN ARAYÜZ GÖRSELLERİ
